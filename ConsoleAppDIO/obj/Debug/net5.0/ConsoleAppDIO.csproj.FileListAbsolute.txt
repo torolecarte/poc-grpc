@@ -1,0 +1,16 @@
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\bin\Debug\net5.0\ConsoleAppDIO.exe
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\bin\Debug\net5.0\ConsoleAppDIO.deps.json
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\bin\Debug\net5.0\ConsoleAppDIO.runtimeconfig.json
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\bin\Debug\net5.0\ConsoleAppDIO.runtimeconfig.dev.json
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\bin\Debug\net5.0\ConsoleAppDIO.dll
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\bin\Debug\net5.0\ref\ConsoleAppDIO.dll
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\bin\Debug\net5.0\ConsoleAppDIO.pdb
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\obj\Debug\net5.0\ConsoleAppDIO.csprojAssemblyReference.cache
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\obj\Debug\net5.0\ConsoleAppDIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\obj\Debug\net5.0\ConsoleAppDIO.AssemblyInfoInputs.cache
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\obj\Debug\net5.0\ConsoleAppDIO.AssemblyInfo.cs
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\obj\Debug\net5.0\ConsoleAppDIO.csproj.CoreCompileInputs.cache
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\obj\Debug\net5.0\ConsoleAppDIO.dll
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\obj\Debug\net5.0\ref\ConsoleAppDIO.dll
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\obj\Debug\net5.0\ConsoleAppDIO.pdb
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppDIO\obj\Debug\net5.0\ConsoleAppDIO.genruntimeconfig.cache

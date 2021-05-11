@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option csharp_namespace = "ApiGrpc.Protos";
+
+service QueryOrder{
+  rpc GetOrder (GetOrderRequest) returns (GetOrderResponse);
+}
+
+
+message GetOrderRequest {
+  string order_id = 1;
+}
+
+message GetOrderResponse {
+  string nome = 1;
+}

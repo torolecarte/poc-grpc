@@ -1,0 +1,2 @@
+obj\Debug\net5.0\Protos/QueryOrder.cs \
+obj\Debug\net5.0\Protos/QueryOrderGrpc.cs: Protos/query_order.proto

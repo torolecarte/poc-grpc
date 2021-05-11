@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleAppTimezoneTests": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppTimezoneTests\bin\Debug\netcoreapp3.1\ConsoleAppTimezoneTests.exe
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppTimezoneTests\bin\Debug\netcoreapp3.1\ConsoleAppTimezoneTests.deps.json
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppTimezoneTests\bin\Debug\netcoreapp3.1\ConsoleAppTimezoneTests.runtimeconfig.json
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppTimezoneTests\bin\Debug\netcoreapp3.1\ConsoleAppTimezoneTests.runtimeconfig.dev.json
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppTimezoneTests\bin\Debug\netcoreapp3.1\ConsoleAppTimezoneTests.dll
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppTimezoneTests\bin\Debug\netcoreapp3.1\ConsoleAppTimezoneTests.pdb
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppTimezoneTests\obj\Debug\netcoreapp3.1\ConsoleAppTimezoneTests.AssemblyInfoInputs.cache
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppTimezoneTests\obj\Debug\netcoreapp3.1\ConsoleAppTimezoneTests.AssemblyInfo.cs
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppTimezoneTests\obj\Debug\netcoreapp3.1\ConsoleAppTimezoneTests.csproj.CoreCompileInputs.cache
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppTimezoneTests\obj\Debug\netcoreapp3.1\ConsoleAppTimezoneTests.dll
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppTimezoneTests\obj\Debug\netcoreapp3.1\ConsoleAppTimezoneTests.pdb
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppTimezoneTests\obj\Debug\netcoreapp3.1\ConsoleAppTimezoneTests.genruntimeconfig.cache
+D:\Projects\TestNetCoreConsoleApp\ConsoleAppTimezoneTests\obj\Debug\netcoreapp3.1\ConsoleAppTimezoneTests.csprojAssemblyReference.cache

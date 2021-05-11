@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ai/S2DzWma+QQ5M4UJDEcp0x8vk1sI3P/qKybvRwQE+lb3rw+WcXUbtqXd9p8g1qzCwjdsGHS2hB5vLz9AiFIQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\TestNetCoreConsoleApp\\ConsoleAppTimezoneTests\\ConsoleAppTimezoneTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Streamer\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
